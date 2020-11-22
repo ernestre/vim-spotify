@@ -7,11 +7,11 @@ Install the plugin using your favorite plugin manager:
 
 [Vundle](https://github.com/VundleVim/Vundle.vim):
 ```
-Plugin'ernestre/vim-spotify'
+Plugin 'ernestre/vim-spotify'
 ```
 [Plug](https://github.com/junegunn/vim-plug):
 ```
-Plug'ernestre/vim-spotify'
+Plug 'ernestre/vim-spotify'
 ```
 [dein](https://github.com/Shougo/dein.vim):
 ```
